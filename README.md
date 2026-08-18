@@ -53,5 +53,5 @@ A standard C compiler (e.g., `gcc` or `clang`).
 
 1. **Clone the repository:**
    ```bash
-   {https://github.com/AkbarNazimHussain/financial-risk-engine-suite.git}(https://github.com/AkbarNazimHussain/financial-risk-engine-suite.git)
-   cd financial-risk-engine-suite
+   {https://github.com/AkbarNazimHussain/credit-risk-engine-c.git}(https://github.com/AkbarNazimHussain/credit-risk-engine-c.git)
+   cd credit-risk-engine-c
